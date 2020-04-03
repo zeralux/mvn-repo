@@ -1,0 +1,1 @@
+我的maven remote reposity
